@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "372373530869",
+    "project_id": "uomo-store",
+    "storage_bucket": "uomo-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372373530869:android:affed3f471e820df967dbc",
+        "android_client_info": {
+          "package_name": "eduardoribeiro.loja_virtual"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372373530869-n1qq78gie1bq2n0jargi7r2ai40qc6jk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH7O-kO4QGa3YJntxXw5OHkn1J-jCQ_rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372373530869-n1qq78gie1bq2n0jargi7r2ai40qc6jk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
